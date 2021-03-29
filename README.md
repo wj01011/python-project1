@@ -18,4 +18,4 @@ while Hispanics population showed an increase in that area.
 These data were part of bigger project looking at Seattle housing market and the effects on demographic
 in Seattle neighborhoods.
 
-Geospatial data was from Seattle Geodata found [here](https://data-seattlecitygis.opendata.arcgis.com/datasets/acs-and-ltdb-race-data-by-community-reporting-area/data?geometry=-122.858%2C47.534%2C-121.815%2C47.696&orderBy=CRA_NO)
+Geospatial data are from Seattle Geodata found [here](https://data-seattlecitygis.opendata.arcgis.com/datasets/acs-and-ltdb-race-data-by-community-reporting-area/data?geometry=-122.858%2C47.534%2C-121.815%2C47.696&orderBy=CRA_NO)
